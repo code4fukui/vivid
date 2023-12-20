@@ -14,6 +14,8 @@ Download Vivid.JS Icons for [Sketch](https://bit.ly/vivid-sketch)
 
 Download Vivid.JS Icons for [Photoshop](https://bit.ly/vivid-ps)
 
+Download ViVid.JS Icons for [general purpose (CSV)](https://code4fukui.github.io/vivid/icons.csv)
+
 # Getting Started
 To get started with Vivid.JS, you just need to include `vivid-icons.min.js` to your project.
 
